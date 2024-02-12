@@ -1,0 +1,10 @@
+  {
+    "appFunctions": {
+      "jepsonupdater": {
+        "file": "thanksKyle.js",
+        "secrets": [
+          "hubdb"
+        ]
+      }
+    }
+  }

@@ -1,0 +1,16 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Jespon 3000k",
+    "uid": "jespon-3000k-custom-card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "AssociatedDeals.jsx"
+    },
+    "objectTypes": [
+      {
+        "name": "contacts"
+      }
+    ]
+  }
+}

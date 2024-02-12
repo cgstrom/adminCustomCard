@@ -1,0 +1,9 @@
+  {
+    "name": "hubdb_updater",
+    "version": "0.1.0",
+    "author": "Dennis Edson",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^0.27.2"
+    }
+  }
